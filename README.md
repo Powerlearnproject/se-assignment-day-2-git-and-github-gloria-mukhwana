@@ -48,4 +48,13 @@ projects from your own GitHub. Forking is particularly useful when working on a 
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
+
+
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+Some of the challanges experienced by new github users include:
+1. Understanding Git concepts like repositories, merging and pull requests can be confusing
+2. Git commands for actions like clone, add, commit can be overwhelming.
+3. Unfamiliarity to Command Line Interface  can be pretty intimidating.
+These challnges can be overcome by contstnt and consistent practice, looking for motivations to learn and get better, finding mentors to help one through and generally maintaning a postive attitude and willingness to learn.
+
+
