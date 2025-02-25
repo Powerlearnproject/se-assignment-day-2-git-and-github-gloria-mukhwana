@@ -2,17 +2,29 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18385869&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
-Version control 
+Version control maintains the integrity of a project by keeping an organized and detailed history of all the changes that have been made on codes making it easy to revert to earlier versions, track changes, collaborate efficiently and merge releases.
+Its fundamental concepts are;
+1. _Repository_ which is a central and common storage point for all files and their respective histories.
+2. _Commit_ this is a snapshot of code files at each instant and message describing every change made.
+3. _Branch_ that helps one to work on a segment of a project in isolation.
+4. _Merge_ that combines the changes of the different braches to other branches or the main project.
+GitHub is a popular tool for managing versions of code as it combines the power og Git with a rich set of collaboration, project management and community features in a user-friendly interface.
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+A new repository is created by clicking on the Plus sign at the top of the gitHub page or clicking on the green _new repository_ button. On the dialogue box, fill in the repository details; the name and descriptiobn and tick on the create a README file to initialize, selecting either publi or private depending on your needs on the project. Add the .gitignore file(s) and choose the necessary lisence then click on create repository.
+It is important tomake the name and description as clear and accurate as possible so they can be easily understood and interprated by teammates and others. It is even more important to consider your public/ private choices depending on the project needs as it determines who can view the contents of your project.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+The README creates a README.md file which is the standard file for introducing the project. A well written README file should include a _project title_ that is clear and descriptive, a short _description_ of the overview of what the project entails, _installation instructions_, _user instructions_ and a _license_ under which the project is distributed. These contribute to effective collaboration as they make the project information clear, complete and accurate for peers or colleagues to understand.
+
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+A public repository can be seen by anyone and is ideal for open-source projects. A private repository can only be seen by self and collaborators and is used for sensitive projects but have limitations on the free tier. The advantage of a public repository is that it has access to the free tier while its disadavantage is that it is open to the general public and isn't ideal for sensitive projects. the adavtage of private repository is that it is secretive among collaborators and protects sensitive information while its disadvantage is that it has limitations on the free tier.
+
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-Committing refers to saving a snapshot of the current versions of a file. A commit is a set of changes made to a file.
+Committing refers to saving a snapshot of the current versions of a file. A commit is a set of changes made to a file and messages describing the changes. 
 
 
 
